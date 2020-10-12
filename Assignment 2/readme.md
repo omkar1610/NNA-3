@@ -1,7 +1,7 @@
 # Run the code:
 
 - Extract everything to a folder and run the commands mentioned below for the result.
-- `mlp.py` is the class and should be imported to use the model. This depends on `numpy` library for basic vector operations.
+- `mlp.py` is the class and should be imported to use the model. This depends on `numpy` library for basic vector operations, `matplotlib` for plotting and `sklearn.metrics` for log loss computation.
 
 # MLP Class:
 

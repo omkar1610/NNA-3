@@ -1,8 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from sklearn.metrics import accuracy_score, mean_squared_error, log_loss
-from tqdm import tqdm
-import random
+from sklearn.metrics import log_loss
 
 
 class FF_multiclass:
